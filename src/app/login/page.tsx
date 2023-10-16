@@ -1,5 +1,11 @@
+import Button from "@/components/Button";
+
 const Login = () => {
-  return <div>page</div>;
+  return (
+    <div>
+      <Button />
+    </div>
+  );
 };
 
 export default Login;
